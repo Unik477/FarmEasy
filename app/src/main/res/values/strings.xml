@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">FarmEasy</string>
+
+    <string name="info_0">
+        The avocado (Persea americana), a tree likely originating from south-central Mexico,[3][4][5] is classified as a member of the flowering plant family Lauraceae.[3] The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.[6] Avocado trees are partially self-pollinating, and are often propagated through grafting to maintain predictable fruit quality and quantity.[7]
+
+Avocados are cultivated in tropical and Mediterranean climates of many countries,[3] with Mexico as the leading producer of avocados in 2019, supplying 32% of the world total.[8]
+
+The fruit of domestic varieties has a buttery flesh when ripe. Depending on the variety, avocados have green, brown, purplish, or black skin when ripe, and may be pear-shaped, egg-shaped, or spherical. Commercially, the fruits are picked while immature, and ripened after harvesting.
+    </string>
+
+    <string name="info_1">
+    Okra or Okro (US: ˈoʊkrə, UK: ˈɒkrə), Abelmoschus esculentus, known in many English-speaking countries as ladies\' fingers or ochro,
+        is a flowering plant in the mallow family. It is valued for its edible green seed pods. It is a good source of minerals, vitamins, antioxidants, and fiber.[2] The geographical origin of okra is disputed, with supporters of West African, Ethiopian, and South Asian origins.
+        The plant is cultivated in tropical, subtropical, and warm temperate regions around the world and is a notable part of the cuisine of the Southern United States as well as Middle Eastern cuisine and Indian cuisine.
+    </string>
+    <string name="info_2">
+        Kiwifruit (often shortened to kiwi in North America and continental Europe) or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.[1][2] The most common cultivar group of kiwifruit (Actinidia deliciosa Hayward)[3] is oval, about the size of a large hen\'s egg: 5–8 centimetres (2–3 inches) in length and 4.5–5.5 cm (1+3⁄4–2+1⁄4 in) in diameter. It has a thin, fuzzy, fibrous, tart but edible light brown skin and light green or golden flesh with rows of tiny, black, edible seeds. The fruit has a soft texture with a sweet and unique flavour.
+
+Kiwifruit is native to central and eastern China.[1] The first recorded description of the kiwifruit dates to the 12th century during the Song dynasty.[4] In the early 20th century, cultivation of kiwifruit spread from China to New Zealand, where the first commercial plantings occurred.[1] The fruit became popular with British and American servicemen stationed in New Zealand during World War II, and later became commonly exported, first to Great Britain and then to California in the 1960s
+    </string>
+    <string name="info_3">
+        The potato is a starchy tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas, with the plant itself being a perennial in the nightshade family Solanaceae.[2]
+
+Wild potato species, originating in modern-day Peru, can be found throughout the Americas, from Canada to southern Chile.[3] The potato was originally believed to have been domesticated by Native Americans independently in multiple locations,[4] but later genetic testing of the wide variety of cultivars and wild species traced a single origin for potatoes, in the area of present-day southern Peru and extreme northwestern Bolivia. Potatoes were domesticated approximately 7,000–10,000 years ago there, from a species in the Solanum brevicaule complex.[5][6][7] In the Andes region of South America, where the species is indigenous, some close relatives of the potato are cultivated.
+    </string>
+    <string name="info_4">
+        The beetroot is the taproot portion of a beet plant,[1] usually known in Canada and the United States as beets while the vegetable is referred to as beetroot in British English, and also known as the table beet, garden beet, red beet, dinner beet or golden beet.
+
+It is one of several cultivated varieties of Beta vulgaris grown for their edible taproots and leaves (called beet greens); they have been classified as B. vulgaris subsp. vulgaris Conditiva Group.[2]
+
+Other cultivars of the same species include the sugar beet, the leaf vegetable known as chard or spinach beet, and mangelwurzel, which is a fodder crop. Three subspecies are typically recognized.
+    </string>
+    <string name="info_5">
+        A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.
+
+Grapes can be eaten fresh as table grapes, used for making wine, jam, grape juice, jelly, grape seed extract, vinegar, and grape seed oil, or dried as raisins, currants and sultanas. Grapes are a non-climacteric type of fruit, generally occurring in clusters.
+    </string>
+
+    <string name="info_6">
+        The carrot (Daucus carota subsp. sativus) is a root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist,[2][3][4] all of which are domesticated forms of the wild carrot, Daucus carota, native to Europe and Southwestern Asia. The plant probably originated in Persia and was originally cultivated for its leaves and seeds. The most commonly eaten part of the plant is the taproot, although the stems and leaves are also eaten. The domestic carrot has been selectively bred for its greatly enlarged, more palatable, less woody-textured taproot.
+
+The carrot is a biennial plant in the umbellifer family, Apiaceae. At first, it grows a rosette of leaves while building up the enlarged taproot. Fast-growing cultivars mature within three months (90 days) of sowing the seed, while slower-maturing cultivars need a month longer (120 days). The roots contain high quantities of alpha- and beta-carotene, and are a good source of vitamin K and vitamin B6.
+    </string>
+    <string name="info_7">
+        Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food.[2][3][4] The many species of wheat together make up the genus Triticum; the most widely grown is common wheat (T. aestivum). The archaeological record suggests that wheat was first cultivated in the regions of the Fertile Crescent around 9600 BCE. Botanically, the wheat kernel is a type of fruit called a caryopsis.
+
+Wheat is grown on more land area than any other food crop (220.4 million hectares, 2014).[5] World trade in wheat is greater than for all other crops combined.[6] In 2017, world production of wheat was 772 million tonnes, with a forecast of 2019 production at 766 million tonnes,[7] making it the second most-produced cereal after maize.[7][8] Since 1960, world production of wheat and other grain crops has tripled and is expected to grow further through the middle of the 21st century.[9] Global demand for wheat is increasing due to the unique viscoelastic and adhesive properties of gluten proteins, which facilitate the production of processed foods, whose consumption is increasing as a result of the worldwide industrialization process and the westernization of the diet.
+    </string>
+
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBF6EB"
+    tools:context=".InfoActivity">
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="399dp"
+        android:layout_height="89dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="9dp"
+        android:backgroundTint="#FDFDFD"
+        android:text="AVOCADO"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ScrollView
+        android:layout_width="414dp"
+        android:layout_height="712dp"
+        android:layout_marginTop="29dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/heading">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="347dp"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@drawable/plant_icon" />
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="423dp"
+                android:layout_height="725dp"
+                android:layout_marginTop="190dp"
+
+                android:text="The avocado (Persea americana), a tree likely originating from south-central Mexico,[3][4][5] is classified as a member of the flowering plant family Lauraceae.[3] The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.[6] Avocado trees are partially self-pollinating, and are often propagated through grafting to maintain predictable fruit quality and quantity.[7]
+
+        Avocados are cultivated in tropical and Mediterranean climates of many countries,[3] with Mexico as the leading producer of avocados in 2019, supplying 32% of the world total.[8]
+
+        The fruit of domestic varieties has a buttery flesh when ripe. Depending on the variety, avocados have green, brown, purplish, or black skin when ripe, and may be pear-shaped, egg-shaped, or spherical. Commercially, the fruits are picked while immature, and ripened after harvesting."
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
